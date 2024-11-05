@@ -28,7 +28,10 @@ The following are some of the application permissions required for you to proper
 
 | Permission | Why this permission is needed |
 | :---: | --- |
-| `android.permission.RECEIVE_BOOT_COMPLETED` | Ketika perangkat Anda dihidupkan ulang, semua alarm yang diatur dalam sistem akan hilang. Izin ini memungkinkan aplikasi untuk menerima pesan dari sistem setelah sistem dinyalakan ulang dan Anda membuka kunci perangkat untuk pertama kalinya. Ketika pesan ini diterima, aplikasi akan membuat layanan untuk mengatur semua alarm yang aktif dalam sistem.|
+| `android.permission.INTERNET` | Required to allow the app to access the internet for sending and receiving data, such as downloading content, syncing data, or communicating with a server.|
+| `NSCameraUsageDescription` | Required to allow the app to use the device’s camera, for example, to capture photos or videos. This permission is necessary if the app includes features that involve taking images directly.|
+| `NSMicrophoneUsageDescription` | Required to grant the app access to the device’s microphone, for example, to record audio or enable voice-based features. This is important for apps that involve voice interaction or audio communication.|
+| `NSPhotoLibraryUsageDescription` | Required to allow the app to access the user’s photo library for opening, saving, or editing images. This permission is essential if the app offers features that interact with images stored on the device.|
 
  <hr style="border:1px solid gray">
 
