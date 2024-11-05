@@ -1,99 +1,49 @@
 
-# Kebijakan Privasi Clinic App Mobile
-Terakhir diperbarui: 11 Agustus 2023
+# Traco+ Privacy Policy
+Last updated: November 5, 2024
 
-Selamat datang di kebijakan privasi Aplikasi Clinic App Mobile. Kami berkomitmen untuk melindungi privasi Anda
-sebagai pengguna aplikasi kami. Kebijakan privasi ini menjelaskan bagaimana kami
-mengumpulkan, menggunakan, dan melindungi informasi pribadi Anda ketika Anda
-menggunakan layanan kami. Dengan menggunakan aplikasi kami, Anda menyetujui praktik
-yang dijelaskan dalam kebijakan privasi ini.
+Welcome to the Traco+ Mobile App privacy policy. We are committed to protecting your privacy as a user of our app. This privacy policy explains how we collect, use and protect your personal information when you use our services. By using our app, you consent to the practices described in this privacy policy.
 
-# Informasi yang Kami Kumpulkan
-Kami mengumpulkan berbagai jenis informasi untuk menyediakan layanan kami dengan baik
-dan memahami kebutuhan Anda. Informasi yang kami kumpulkan meliputi:
+# Information We Collect
+We collect different types of information to best provide our services and understand your needs. The information we collect includes:
 
-● Pengguna Pasien :
-1. Informasi Pribadi: Informasi yang Anda berikan secara sukarela saat mendaftar
-     atau menggunakan fitur tertentu dalam aplikasi kami, seperti nama, alamat email,
-     nomor handphone, tanggal lahir atau informasi kontak lainnya.
-		 
-2. Informasi Medis: Untuk memfasilitasi fitur rekam medis, kami dapat
-mengumpulkan informasi seperti kesehatan, hasil tes medis, dan informasi
-terkait kunjungan ke dokter.
+Personal Information that you voluntarily provide when registering or using certain features in our app, such as name, email address, mobile number, date of birth or other contact information.
 
-● Pengguna Dokter :
-1. Informasi Pribadi: Informasi yang Anda berikan secara sukarela saat mendaftar
-atau menggunakan fitur tertentu dalam aplikasi kami, seperti nama, alamat email,
-nomor handphone, tanggal lahir atau informasi kontak lainnya.
+# Use of Information
+We use the information we collect to:
 
-# Penggunaan Informasi
-Kami menggunakan informasi yang kami kumpulkan untuk:
+● Provide Services: Your information is used to provide various services on the app.
 
-● Memberikan Layanan: Informasi Anda digunakan untuk menyediakan berbagai layanan yang ada pada aplikasi seperti reservasi
-kunjungan, fitur chat dengan dokter, pengingat minum obat, serta layanan lainnya yang
-Anda gunakan.
+● Communication: We may contact you to provide information regarding updates, changes or new services in the app.
 
-● Komunikasi: Kami dapat menghubungi Anda untuk memberikan informasi terkait
-pembaruan, perubahan, atau layanan baru dalam aplikasi.
+# Data Protection and Security
+The confidentiality of your personal data is paramount, we guarantee that the data and information provided by you is confidential and will not be disseminated except for the things that have been listed and you agree to in this Privacy Policy. We apply the best efforts to protect and secure your Personal Data from irresponsible parties. We strive to protect your personal data in the following ways:
 
-# Perlindungan Data dan Keamanan
-Kerahasiaan data pribadi Anda adalah hal yang terpenting, kami menjamin bahwa data dan
-informasi yang diberikan Anda bersifat rahasia dan tidak akan disebarluaskan kecuali untuk
-hal-hal yang telah dicantumkan dan Anda setujui dalam Kebijakan Privasi ini. Kami
-memberlakukan upaya terbaik untuk melindungi dan mengamankan Data Pribadi Anda dari
-pihak-pihak yang tidak bertanggung jawab. Kami mengupayakan perlindungan data pribadi
-anda dengan berbagai cara berikut :
+● Cloud Storage: All data is stored in Google Cloud services, where security is guaranteed according to Google standards.
 
-● Penyimpanan Cloud: Semua data disimpan di layanan Cloud, yang keamanannya
-dijamin sesuai standar Google.
+● Network Security: Data transmission over the network is done through a TLS (Transport Layer Security) connection to ensure security as data moves over the internet.
 
-● Data Rekam Medis: Dokumen PDF hasil rekam medis yang dapat anda download
-melalui aplikasi dilindungi oleh algoritma enkripsi 256-bit Advanced Encryption Standard
-dan diberi password sebelum Anda dapat mengaksesnya.
+# Application Permissions
+The following are some of the application permissions required for you to properly use the services provided by Traco+ Mobile application.
 
-● Keamanan Jaringan: Pengiriman data melalui jaringan dilakukan melalui koneksi TLS
-(Transport Layer Security) untuk memastikan keamanan saat data berpindah melalui
-internet.
-
-# Izin Aplikasi
-Berikut adalah beberapa izin aplikasi yang dibutuhkan agar anda dapat menggunakan layanan yang disediakan oleh aplikasi Clinic App Mobile dengan baik.
-
-| Izin | Mengapa izin ini dibutuhkan |
+| Permission | Why this permission is needed |
 | :---: | --- |
-| `android.permission.SCHEDULE_EXACT_ALARM` | Hal ini diperlukan untuk menjadwalkan alarm dengan tepat waktu. Anda, sebagai pengguna, atau sistem, dapat mencabut izin ini kapan saja dari Pengaturan. Namun, mencabut izin ini akan mempengaruhi kerja layanan pada aplikasi yang membutuhkan izin ini, dan membatalkan semua alarm yang ditetapkan oleh aplikasi. |
-| `android.permission.WAKE_LOCK` | Diperlukan untuk menampilkan layar alarm saat alarm berdering. Izin secara otomatis diberikan oleh sistem; tidak dapat dicabut oleh pengguna. |
-| `android.permission.READ_EXTERNAL_STORAGE` | Izin ini utamanya digunakan untuk fitur download PDF rekam medis Anda. Sebagai pengguna, atau sistem, Anda dapat mencabut izin ini kapan saja dari pengaturan. Namun, mencabut izin akan mempengaruhi kerja layanan yang membutuhkan izin ini. |
-| `android.permission.WRITE_EXTERNAL_STORAGE` | Sama seperti READ_EXTERNAL_STORAGE, izin ini utamanya digunakan untuk fitur download PDF rekam medis. Sebagai pengguna, atau sistem, Anda dapat mencabut izin ini kapan saja dari pengaturan. Namun, mencabut izin akan mempengaruhi kerja layanan yang membutuhkan izin ini. |
 | `android.permission.RECEIVE_BOOT_COMPLETED` | Ketika perangkat Anda dihidupkan ulang, semua alarm yang diatur dalam sistem akan hilang. Izin ini memungkinkan aplikasi untuk menerima pesan dari sistem setelah sistem dinyalakan ulang dan Anda membuka kunci perangkat untuk pertama kalinya. Ketika pesan ini diterima, aplikasi akan membuat layanan untuk mengatur semua alarm yang aktif dalam sistem.|
 
  <hr style="border:1px solid gray">
 
-# Pengungkapan kepada Pihak Ketiga
-Kami tidak akan membagikan, menjual, atau menyewakan informasi pribadi Anda kepada pihak
-ketiga kecuali dengan izin Anda atau jika diwajibkan oleh hukum.
+# Disclosure to Third Parties
+We will not share, sell, or rent your personal information to third parties except with your permission or where required by law.
 
-# Penghapusan Akun dan Data
-Jika Anda memutuskan untuk menghapus akun Anda melalui fitur yang disediakan pada
-aplikasi atau melalui kontak email, data yang terkait dengan akun Anda akan dihapus dari
-database kami, kecuali data informasi medis Anda yang akan tetap kami simpan hanya selama
-kami masih memberikan layanan bersama klinik. Data ini diperlukan sebagai data milik klinik,
-dimana Pemerintahan Republik Indonesia mewajibkan setiap pemeriksaan pasien untuk dibuat
-rekam medisnya. Ada kemungkinan data anda akan tetap disimpan klinik, data anda akan
-digunakan sebagai informasi kepada dokter saat anda melakukan kunjungan ke klinik yang
-sama. Kami sebagai developer aplikasi yang terpisah dengan pihak klinik menjamin
-penghapusan data menyeluruh saat kami menutup layanan aplikasi.
+# Account and Data Deletion
+If the user decide want to delete their account, the user can contact us through email and the data associated with their account will be deleted from our database.
 
-# Kebijakan Penutupan Aplikasi
-Jika pada suatu titik dimana kami memutuskan untuk menutup layanan aplikasi. Kami akan
-melakukan penghapusan menyeluruh pada seluruh data yang ada pada database kami.
+# Application Closure Policy
+If at any point we decide to close the application service. We will perform a comprehensive deletion of all data in our database.
 
-# Perubahan Kebijakan Privasi
-Kami dapat memperbarui kebijakan privasi ini dari waktu ke waktu. Perubahan akan
-diberlakukan setelah kami memperbarui kebijakan ini di aplikasi kami. Kami mendorong Anda
-untuk secara berkala meninjau halaman ini untuk tetap up-to-date tentang bagaimana kami
-melindungi informasi Anda.
+# Privacy Policy Changes
+We may update this privacy policy from time to time. 
+Changes will take effect once we update this policy on our app. We encourage you to periodically review this page to stay up-to-date on how we protect your information.
 
-# Hubungi Kami
-Jika Anda memiliki pertanyaan atau masalah terkait privasi atau penggunaan aplikasi, Anda
-dapat menghubungi kami di:
-verrelravanelli@gmail.com
+# Contact Us
+If you have any questions or concerns regarding privacy or use of the app, you can contact us at: traco.dev@gmail.com
