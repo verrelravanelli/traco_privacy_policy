@@ -24,7 +24,7 @@ The confidentiality of your personal data is paramount, we guarantee that the da
 ● Network Security: Data transmission over the network is done through a TLS (Transport Layer Security) connection to ensure security as data moves over the internet.
 
 # Application Permissions
-The following are some of the application permissions required for you to properly use the services provided by Traco+ Mobile application.
+The following are some of the application permissions for android and ios that required for you to properly use the services provided by Traco+ Mobile application.
 
 | Permission | Why this permission is needed |
 | :---: | --- |
